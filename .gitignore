@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# training / run artifacts
+catboost_info/
+*.log
+*.npz
+*.npy
+*.cbm
+*.ubj
+*.lgb
+
+# competition data, work folders and builds (never commit them)
+data/
+work/
+*.zip
+*.csv
+*.parquet
+
+# credentials
+kaggle.json
+.env

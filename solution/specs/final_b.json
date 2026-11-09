@@ -1,0 +1,50 @@
+{
+ "validation": {
+  "onset": [
+   "v14",
+   "v14s1",
+   "v14s2"
+  ],
+  "ongoing": [
+   "v14",
+   "v14s1",
+   "v14s2"
+  ],
+  "thr_onset": 0.5,
+  "onset_rel": 0.5,
+  "thr_on": 0.5
+ },
+ "private": {
+  "onset": [
+   "v14s5",
+   "v14s6",
+   "v14s7"
+  ],
+  "ongoing": [
+   "v14s5",
+   "v14s6",
+   "v14s7"
+  ],
+  "thr_onset": 0.5,
+  "onset_rel": 0.5,
+  "thr_on": 0.55,
+  "remote": {
+   "kind": "head",
+   "tags": [
+    "rh0",
+    "rh1",
+    "rh2"
+   ],
+   "tau": 0.5,
+   "steps": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  "thr_on_q": 0.65
+ }
+}
